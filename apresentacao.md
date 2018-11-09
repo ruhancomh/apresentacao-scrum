@@ -2,9 +2,19 @@
 <!-- template: invert -->
 
 # ==Scrum==
-## Introdução e Análise de implatação
+## Introdução ao framework
 ##### `Ruhan de Oliveira Baiense`
 ###### arcoinformatica.com.br
+
+---
+
+# Introdução aos Métodos Ágeis
+
+[Um pouco da história](https://cursos.alura.com.br/course/introducao-aos-metodos-ageis/task/3877)
+[Apresentando Scrum, Kanban e XP](https://cursos.alura.com.br/course/introducao-aos-metodos-ageis/task/3884)
+
+- Agile é uma filosofia a ser seguida.
+- Métodos ágeis focam em pouca documentação, e mais produtividade.
 
 ---
 
@@ -104,3 +114,54 @@ seu melhor, e agora devemos seguir adiante.
 
 - O _**Product Backlog**_ é a lista priorizada das histórias que agregam valor para o cliente. São histórias que envolvem o projeto inteiro. Somente o P.O. mexe nele, mas todo o time pode palpitar;
 - O _**Sprint Backlog**_ engloba histórias e tarefas que estão no topo das prioridades. No Sprint Backlog o time altera essas tarefas sem que o cliente palpite sobre elas.
+
+---
+
+# Papéis no Scrum
+
+- ==**Scrum Master**==
+- ==**Product Owner**==
+- ==**Desenvolvedores**==
+
+---
+
+# Scrum Master
+
+[Quem é o Scrum Master](https://cursos.alura.com.br/course/agile-scrum/task/10115)
+[Impedimentos](https://cursos.alura.com.br/course/agile-scrum/task/10116)
+
+- O papel do Scrum Master é facilitar o ensino sobre o que é o Scrum e as responsabilidades de cada uma das partes envolvidas.
+- Não se trata de ser necessariamente o chefe, mas sim um líder servidor, aquele que está disponível para ajudar e facilitar a comunicação.
+- Sua terceira função é resolver impedimentos.
+
+---
+
+# Product Owner
+
+[Quem é o Product Owner](https://cursos.alura.com.br/course/agile-scrum/task/10121)
+[Como agir](https://cursos.alura.com.br/course/agile-scrum/task/10122)
+
+- Responder dúvidas dos desenvolvedores sobre histórias ou indicar quem poderia respondê-las melhor;
+- Deixar claro para o time qual o valor de negócios de cada Sprint;
+- Manter o ==Product Backlog== atualizado;
+- ==**Uma pessoa, não um comitê.**==
+
+---
+
+# Desenvolvedores
+
+[Quem são os Desenvolvedores](https://cursos.alura.com.br/course/agile-scrum/task/10128)
+
+- Desenvolvedor é aquele que ajuda a executar o projeto e o faz andar para a frente;
+- O time de desenvolvimento que estima trabalho e tempo necessários;
+- Os desenvolvedores também decidem o quanto de trabalho pode ser feito em um time-box. Não é uma pessoa externa que define tempo, são os próprios envolvidos no trabalho
+
+---
+
+# Melhoria contínua
+
+[Como melhorar?](https://cursos.alura.com.br/course/agile-scrum/task/10147)
+
+- Sempre aplicar as ações retiradas da retrospectivas e resolver os problemas à medida em que eles aparecem;
+- A melhoria contínua é essencial;
+- Todos devem pensar em melhorar constantemente, em conjunto;
