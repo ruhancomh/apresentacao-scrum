@@ -1,0 +1,106 @@
+<!-- $theme: gaia -->
+<!-- template: invert -->
+
+# ==Scrum==
+## Introdução e Análise de implatação
+##### `Ruhan de Oliveira Baiense`
+###### arcoinformatica.com.br
+
+---
+
+# O que é Scrum?
+
+[História do scrum](https://cursos.alura.com.br/course/agile-scrum/task/7332)
+[Time-boxes e Sprints](https://cursos.alura.com.br/course/agile-scrum/task/7333)
+[Duração da Sprint](https://cursos.alura.com.br/course/agile-scrum/task/7334)
+
+- O Scrum é um framework ágil.
+- Sua principal característica é trabalhar com time boxes.
+- Uma vez de nidas as durações das time boxes, elas não mudam durante o Sprint atual.
+
+---
+
+# Sprint Life Cycle
+
+![](./scrum_sprint_lyfe_cicle.jpg)
+
+---
+
+# Planning Meeting
+
+[O que é Planning Meeting](https://cursos.alura.com.br/course/agile-scrum/task/7364)
+[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7365)
+
+- É uma reunião de planejamento que reúne a equipe inteira.
+- Entramos nela com uma lista de todos os afazeres e saímos com outra, de tarefas especícas a serem concluídas.
+- Pra 1 semana de Sprint, teremos `2 horas` de planejamento.
+
+---
+
+# Daily Scrum
+
+[O que é Daily Scrum](https://cursos.alura.com.br/course/agile-scrum/task/7358)
+[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7359)
+
+- Reunião diária e rápida de no máximo `15 minutos` no próprio ambiente de trabalho.
+- Três perguntas principais devem ser respondidas: O que fez? O que fará? Quais problemas enfrentou?
+- Toda a equipe participa.
+
+---
+
+# Review Meeting
+
+[O que é Review Meeting](https://cursos.alura.com.br/course/agile-scrum/task/7341)
+[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7342)
+[De nição de pronto](https://cursos.alura.com.br/course/agile-scrum/task/7343)
+
+- É o momento no qual o cliente e o time de desenvolvimento se reúnem para mostrar os incrementos feitos na Sprint.
+- É uma time box que não deve ultrapassar `2.5%` tempo total da Sprint.
+- Para um Sprint de 1 semana, o Review Meeting terá ==1 hora== de duração.
+
+---
+
+# Retrospective
+
+[O que é Retrospective](https://cursos.alura.com.br/course/agile-scrum/task/7350)
+[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7351)
+
+- Esta reunião fornece a possibilidade de melhoria contínua em que pode-se "lavar roupa suja" para nos reinventarmos para uma próxima Sprint.
+- A cada 1 semana de Sprint, recomenda-se ==2 horas== retrospectiva.
+- É um momento de melhoria contínua, não um momento de apontar culpados.
+
+---
+
+> Não importa o que descobriremos nessa reunião,
+consideraremos que as pessoas agiram dessa
+forma devido aos conhecimentos que possuíam
+na época, tempo e recursos disponíveis.
+Considerando esses aspectos, as pessoas zeram
+seu melhor, e agora devemos seguir adiante.
+>
+> -- _==Prime Directive==_
+> 
+
+---
+
+# Histórias
+
+[O que é História](https://cursos.alura.com.br/course/agile-scrum/task/10106)
+
+- A história é um item que agrega valor ao usuário, escrita de forma bem diferente ao caso de uso, deve ter um ==título==, um ==porquê== e ==para quem== esse item é importante.
+- Uma história faz parte do Product Backlog, mas no momento de desenvolvê-la, vamos paralelizar os ==sub-itens da história==, chamados de tarefa, `task`, para terminá-las o mais rápido possível.
+
+---
+
+### Exemplo de História
+
+![](exemplo_historia.png)
+
+---
+
+## Product Backlog e Sprint Backlog
+
+[O que é Product e Sprint Backlog](https://cursos.alura.com.br/course/agile-scrum/task/10107)
+
+- O _**Product Backlog**_ é a lista priorizada das histórias que agregam valor para o cliente. São histórias que envolvem o projeto inteiro. Somente o P.O. mexe nele, mas todo o time pode palpitar;
+- O _**Sprint Backlog**_ engloba histórias e tarefas que estão no topo das prioridades. No Sprint Backlog o time altera essas tarefas sem que o cliente palpite sobre elas.
