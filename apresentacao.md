@@ -113,6 +113,7 @@ seu melhor, e agora devemos seguir adiante.
 # Histórias
 
 [O que é História](https://cursos.alura.com.br/course/agile-scrum/task/10106)
+[Como elaborar uma História](https://cursos.alura.com.br/course/introducao-aos-metodos-ageis/task/3915)
 
 - A história é um item que agrega valor ao usuário, escrita de forma bem diferente ao caso de uso, deve ter um ==título==, um ==porquê== e ==para quem== esse item é importante.
 - Uma história faz parte do Product Backlog, mas no momento de desenvolvê-la, vamos paralelizar os ==sub-itens da história==, chamados de tarefa, `task`, para terminá-las o mais rápido possível.
