@@ -18,6 +18,23 @@
 
 ---
 
+# Manifesto Ágil
+
+- ==Indivíduos e interações== mais que processos e ferramentas
+- ==Software em funcionamento== mais que documentação abrangente
+- ==Colaboração com o cliente== mais que negociação de contratos
+- ==Responder a mudanças== mais que seguir um plano
+
+>_...mesmo havendo valor nos itens à direita, valorizamos mais os itens à esquerda._
+
+---
+
+# Genrênciamento de Projeto
+
+![](./gerenciamento_projeto.jpg)
+
+---
+
 # O que é Scrum?
 
 [História do scrum](https://cursos.alura.com.br/course/agile-scrum/task/7332)
@@ -25,8 +42,8 @@
 [Duração da Sprint](https://cursos.alura.com.br/course/agile-scrum/task/7334)
 
 - O Scrum é um framework ágil.
-- Sua principal característica é trabalhar com time boxes.
-- Uma vez de nidas as durações das time boxes, elas não mudam durante o Sprint atual.
+- Sua principal característica é trabalhar com time-boxes.
+- Uma vez definidas as durações das time-boxes, elas não mudam durante o Sprint atual.
 
 ---
 
@@ -42,7 +59,7 @@
 [Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7365)
 
 - É uma reunião de planejamento que reúne a equipe inteira.
-- Entramos nela com uma lista de todos os afazeres e saímos com outra, de tarefas especícas a serem concluídas.
+- Entramos nela com uma lista de todos os afazeres e saímos com outra, de tarefas específicas a serem concluídas.
 - Pra 1 semana de Sprint, teremos `2 horas` de planejamento.
 
 ---
@@ -76,7 +93,7 @@
 [Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7351)
 
 - Esta reunião fornece a possibilidade de melhoria contínua em que pode-se "lavar roupa suja" para nos reinventarmos para uma próxima Sprint.
-- A cada 1 semana de Sprint, recomenda-se ==2 horas== retrospectiva.
+- A cada 1 semana de Sprint, recomenda-se ==2 horas== de retrospectiva.
 - É um momento de melhoria contínua, não um momento de apontar culpados.
 
 ---
