@@ -35,15 +35,29 @@
 
 ---
 
+# História do Scrum
+
+- O termo "Scrum" foi cunhado por **Takeuchi** e **Nonaka** em alusão à formação do Rugby, em que todo o time está junto buscando a posse da bola;
+- Para Scrum, o conceito de time é extremamente importante;
+- A metáfora que utiliza o Rugby ainda se relaciona ao conceito de ==sprint==, que é quando o time rouba a bola e o jogador deve correr rapidamente com ela, e esse processo se repete até a conclusao do jogo.
+
+[Exemplo de um Scrum no Rugby](https://youtu.be/Y5qLMDHC7sg?t=46)
+
+---
+
 # O que é Scrum?
 
-[História do scrum](https://cursos.alura.com.br/course/agile-scrum/task/7332)
-[Time-boxes e Sprints](https://cursos.alura.com.br/course/agile-scrum/task/7333)
-[Duração da Sprint](https://cursos.alura.com.br/course/agile-scrum/task/7334)
-
-- O Scrum é um framework ágil.
-- Sua principal característica é trabalhar com time-boxes.
+- O Scrum é um framework ágil de gerenciamento de projetos.
+- Sua principal característica é trabalhar com ==time-boxes==: caixas de tempo com capacidade definida, rígida e não negociável.
 - Uma vez definidas as durações das time-boxes, elas não mudam durante o Sprint atual.
+
+---
+
+# Sprints
+
+- A **Sprint** é o tempo que temos para agregar valor e marcar pontos.
+- Para delimitar o tamanho da Sprint vários fatores devem ser levados em consideração. A duração ideal da Sprint depende muito da equipe e das pessoas envolvidas.
+- A duração da Sprint atual não pode ser alterada. No entanto, ao final de um ciclo, ela pode ser revista.
 
 ---
 
@@ -55,23 +69,25 @@
 
 # Planning Meeting
 
-[O que é Planning Meeting](https://cursos.alura.com.br/course/agile-scrum/task/7364)
-[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7365)
-
 - É uma reunião de planejamento que reúne a equipe inteira.
-- Entramos nela com uma lista de todos os afazeres e saímos com outra, de tarefas específicas a serem concluídas.
-- Pra 1 semana de Sprint, teremos `2 horas` de planejamento.
+- Entramos nela com uma lista de todos os afazeres (Product Backlog) e saímos com outra, de tarefas específicas a serem concluídas (Sprint Backlog).
+- Duraçã de 5% do tamanho do Sprint, pra 1 semana de Sprint, teremos `2 horas` de planejamento.
+- O **P.O.** deve ter passado um tempo considerável pegando o topo do Backlog, os itens mais importantes, e refinando-os, se necessário em contato com os membros do time.
 
+---
+# Como realizar a Planning Meeting
+
+- O P.O. chega com o Product Backlog, e apresenta os itens de maior prioridade para o cliente.
+- Os desenvolvedores vão discutir sobre o item, estimar quanto de esforço deve ser empregado nesse tipo de tarefa.
+- Na próxima parte da reunião, é feita a negociação daquilo que realmente cabe na Sprint.
+- Objetivo é não sobrecarregar o time.
+- Definir uma ==Meta== para o Sprint.
 ---
 
 # Daily Scrum
-
-[O que é Daily Scrum](https://cursos.alura.com.br/course/agile-scrum/task/7358)
-[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7359)
-
-- Reunião diária e rápida de no máximo `15 minutos` no próprio ambiente de trabalho.
+- Reunião diária e rápida de no máximo `15 minutos` no próprio ambiente de trabalho, sempre no mesmo horário.
 - Três perguntas principais devem ser respondidas: O que fez? O que fará? Quais problemas enfrentou?
-- Toda a equipe participa.
+- Toda a equipe deve participar.
 
 ---
 
