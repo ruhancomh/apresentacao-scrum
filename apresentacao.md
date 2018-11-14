@@ -55,9 +55,9 @@
 
 # Sprints
 
-- A **Sprint** é o tempo que temos para agregar valor e marcar pontos.
-- Para delimitar o tamanho da Sprint vários fatores devem ser levados em consideração. A duração ideal da Sprint depende muito da equipe e das pessoas envolvidas.
-- A duração da Sprint atual não pode ser alterada. No entanto, ao final de um ciclo, ela pode ser revista.
+- A **Sprint** é o tempo que temos para agregar valor e marcar pontos no projeto.
+- Para delimitar o tamanho da Sprint vários fatores devem ser levados em consideração. A duração da Sprint atual não pode ser alterada. No entanto, ao final de um ciclo, ela pode ser revista.
+- O Sprint é formado por varias etapas: Planning Meeting, Desenvolvimento, Daily Scrum, Review Meeting e Retrospective.
 
 ---
 
@@ -93,24 +93,36 @@
 
 # Review Meeting
 
-[O que é Review Meeting](https://cursos.alura.com.br/course/agile-scrum/task/7341)
-[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7342)
-[De nição de pronto](https://cursos.alura.com.br/course/agile-scrum/task/7343)
-
 - É o momento no qual o cliente e o time de desenvolvimento se reúnem para mostrar os incrementos feitos na Sprint.
-- É uma time box que não deve ultrapassar `2.5%` tempo total da Sprint.
-- Para um Sprint de 1 semana, o Review Meeting terá ==1 hora== de duração.
+- É uma time box que não deve ultrapassar `2.5%` tempo total da Sprint. Para um Sprint de 1 semana, o Review Meeting terá ==1 hora== de duração.
+- Aprensetar os itens prontos para o cliente testar.
+- Coletar o feedback e se necessário inserir no Product Backlog.
+- Validar se a meta do Sprint foi atendida ou não.
 
 ---
 
-# Retrospective
+## Definição de pronto
 
-[O que é Retrospective](https://cursos.alura.com.br/course/agile-scrum/task/7350)
-[Como fazer](https://cursos.alura.com.br/course/agile-scrum/task/7351)
+- A definição de ==pronto== tem que estar clara e bem definida.
+- Sequência de passos a serem seguidos, para que possa considerar um item (task) pronto.
+- Exemplo: Desenvolvido -> Testado -> Aprovado pelo ==cliente==.
+- Não deve ser um critério muito grande.
+
+---
+
+### Exemplo de quadro de acompanhamento
+
+![](./quadro_criterio_pronto.png)
+
+---
+
+## Retrospective
 
 - Esta reunião fornece a possibilidade de melhoria contínua em que pode-se "lavar roupa suja" para nos reinventarmos para uma próxima Sprint.
 - A cada 1 semana de Sprint, recomenda-se ==2 horas== de retrospectiva.
 - É um momento de melhoria contínua, não um momento de apontar culpados.
+- Esta reunião gera ==ações== que devem ser tomadas para solucinar os problemas.
+- Deixar o resultado desta reunião visivel para o time, e valida-lo na proxima retrospectiva.
 
 ---
 
@@ -126,13 +138,37 @@ seu melhor, e agora devemos seguir adiante.
 
 ---
 
-# Histórias
+## Como executar uma Retrospetive
 
-[O que é História](https://cursos.alura.com.br/course/agile-scrum/task/10106)
-[Como elaborar uma História](https://cursos.alura.com.br/course/introducao-aos-metodos-ageis/task/3915)
+- Levantar os pontos positivos e negativos do Sprint.
+- Agrupar esses pontos por assunto para facilitar a discução.
+- Identificar com o time quais ações podem ser tomadas para solucinar o problema levantado.
+- Sair da reunião de restropectiva com pelo menos ==1 ação== de melhoria definida.
 
-- A história é um item que agrega valor ao usuário, escrita de forma bem diferente ao caso de uso, deve ter um ==título==, um ==porquê== e ==para quem== esse item é importante.
+---
+
+### Exemplo de quadro de retrospectiva
+
+![](./quadro_retrospectiva.png)
+
+---
+
+## Histórias
+
+- A história é um item que agrega valor ao usuário, escrita de forma bem diferente ao caso de uso, deve ter um ==título==, um ==porquê== , ==para quem== esse item é importante e ==obetivo== da história.
 - Uma história faz parte do Product Backlog, mas no momento de desenvolvê-la, vamos paralelizar os ==sub-itens da história==, chamados de tarefa, `task`, para terminá-las o mais rápido possível.
+- Quem possui maiores informações sobre a história é o P.O.
+
+---
+
+## Características de boas histórias
+
+- Indepêndencia: máximo de indepêndencia possível entre as histórias.
+- Negociáveis: O que não for negociável deve estar explícito.
+- Valiosas: específicar bem o valor de cada hisória.
+- Estimáveis: detalhadas o suficiente para serem estimaveis (custo benefício).
+- Pequenas: que caibam em 1 Sprint, histórias grandes podem ser divididas em menores.
+- Testaveis: critérios de aceitação explícitos.
 
 ---
 
@@ -150,8 +186,13 @@ seu melhor, e agora devemos seguir adiante.
 - O _**Sprint Backlog**_ engloba histórias e tarefas que estão no topo das prioridades. No Sprint Backlog o time altera essas tarefas sem que o cliente palpite sobre elas.
 
 ---
+## ==DEEP==: Detailed appropriately, estimated, emergent, and prioritized
 
-# Papéis no Scrum
+![](./product-backlog.jpg)
+
+---
+
+## Papéis no Scrum
 
 - ==**Scrum Master**==
 - ==**Product Owner**==
