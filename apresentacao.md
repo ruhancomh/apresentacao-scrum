@@ -49,7 +49,7 @@
 
 ## Genrênciamento de Projeto
 
-<img src="./gerenciamento_projeto.jpg" style="width: 600px"/>
+<img src="./assets/gerenciamento_projeto.jpg" style="width: 600px"/>
 
 ---
 
@@ -81,7 +81,7 @@
 
 ## Sprint Life Cycle
 
-![](./scrum_sprint_lyfe_cicle.jpg)
+![](./assets/scrum_sprint_lyfe_cicle.jpg)
 
 ---
 
@@ -130,7 +130,7 @@
 
 ### Exemplo de quadro de acompanhamento
 
-![](./quadro_criterio_pronto.png)
+![](./assets/quadro_criterio_pronto.png)
 
 ---
 
@@ -174,7 +174,7 @@ seu melhor, e agora devemos seguir adiante.
 
 ---
 
-<img src="./pdca.png" style="width:100%"/>
+<img src="./assets/pdca.png" style="width:100%"/>
 
 ---
 
@@ -199,7 +199,7 @@ seu melhor, e agora devemos seguir adiante.
 
 ### Exemplo de História
 
-![](exemplo_historia.png)
+![](./assets/exemplo_historia.png)
 
 ---
 
@@ -209,9 +209,9 @@ seu melhor, e agora devemos seguir adiante.
 - O _**Sprint Backlog**_ engloba histórias e tarefas que estão no topo das prioridades e que serão feitas nesta Sprint. No Sprint Backlog o time altera essas tarefas sem que o cliente palpite sobre elas.
 
 ---
-## ==DEEP==: Detailed appropriately, estimated, emergent, and prioritized
+###### ==DEEP==: Detailed appropriately, estimated, emergent, and prioritized
 
-![](./product-backlog.jpg)
+<img src="./assets/product-backlog.jpg" style="height:500px" />
 
 ---
 
@@ -224,7 +224,7 @@ seu melhor, e agora devemos seguir adiante.
 
 ---
 
-![](./hierarquia-de-requisitos.png)
+![](./assets/hierarquia-de-requisitos.png)
 
 ---
 
