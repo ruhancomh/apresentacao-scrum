@@ -8,17 +8,15 @@
 
 ---
 
-# Introdução aos Métodos Ágeis
+## Introdução aos Métodos Ágeis
 
-[Um pouco da história](https://cursos.alura.com.br/course/introducao-aos-metodos-ageis/task/3877)
-[Apresentando Scrum, Kanban e XP](https://cursos.alura.com.br/course/introducao-aos-metodos-ageis/task/3884)
-
-- Agile é uma filosofia a ser seguida.
+- Agile é uma metodologia.
 - Métodos ágeis focam em pouca documentação, e mais produtividade.
+- Em 2001, um grupo de programadores lançou o Manifesto Ágil, uma metodologia que tem como objetivo satisfazer os clientes ou envolvidos em um projeto entregando com rapidez e, com maior frequência, versões do projeto, conforme as necessidades.
 
 ---
 
-# Manifesto Ágil
+## Manifesto Ágil
 
 - ==Indivíduos e interações== mais que processos e ferramentas
 - ==Software em funcionamento== mais que documentação abrangente
@@ -29,23 +27,43 @@
 
 ---
 
-# Genrênciamento de Projeto
+# 12 Princípios ageis
 
-![](./gerenciamento_projeto.jpg)
+1) Satisfazer o cliente.
+2) Dar boas-vindas às mudanças.
+3) Entregar com frequência resultados.
+4) Trabalhar como um time.
+5) Motivar as pessoas.
+6) Comunicação face a face.
+7) Medir o software em funcionamento.
+8) Manter um ritmo sustentável.
 
 ---
 
-# História do Scrum
+9) A qualidade deve ser algo bem visto, bem preparado e importante também.
+10) Manter as coisas sempre simples.
+11) Os designs têm que ser evolutivos.
+12) Refletir regularmente sobre o processo, sobre o que se está fazendo e analisar de que maneira nós podemos melhorar continuamente.
+
+---
+
+## Genrênciamento de Projeto
+
+<img src="./gerenciamento_projeto.jpg" style="width: 600px"/>
+
+---
+
+## História do Scrum
 
 - O termo "Scrum" foi cunhado por **Takeuchi** e **Nonaka** em alusão à formação do Rugby, em que todo o time está junto buscando a posse da bola;
 - Para Scrum, o conceito de time é extremamente importante;
 - A metáfora que utiliza o Rugby ainda se relaciona ao conceito de ==sprint==, que é quando o time rouba a bola e o jogador deve correr rapidamente com ela, e esse processo se repete até a conclusao do jogo.
 
-[Exemplo de um Scrum no Rugby](https://youtu.be/Y5qLMDHC7sg?t=46)
+[Exemplo de um Scrum no Rugby](https://www.youtube.com/watch?v=klX317JcPYw)
 
 ---
 
-# O que é Scrum?
+## O que é Scrum?
 
 - O Scrum é um framework ágil de gerenciamento de projetos.
 - Sua principal característica é trabalhar com ==time-boxes==: caixas de tempo com capacidade definida, rígida e não negociável.
@@ -53,7 +71,7 @@
 
 ---
 
-# Sprints
+## Sprints
 
 - A **Sprint** é o tempo que temos para agregar valor e marcar pontos no projeto.
 - Para delimitar o tamanho da Sprint vários fatores devem ser levados em consideração. A duração da Sprint atual não pode ser alterada. No entanto, ao final de um ciclo, ela pode ser revista.
@@ -61,13 +79,13 @@
 
 ---
 
-# Sprint Life Cycle
+## Sprint Life Cycle
 
 ![](./scrum_sprint_lyfe_cicle.jpg)
 
 ---
 
-# Planning Meeting
+## Planning Meeting
 
 - É uma reunião de planejamento que reúne a equipe inteira.
 - Entramos nela com uma lista de todos os afazeres (Product Backlog) e saímos com outra, de tarefas específicas a serem concluídas (Sprint Backlog).
@@ -75,7 +93,7 @@
 - O **P.O.** deve ter passado um tempo considerável pegando o topo do Backlog, os itens mais importantes, e refinando-os, se necessário em contato com os membros do time.
 
 ---
-# Como realizar a Planning Meeting
+## Como realizar a Planning Meeting
 
 - O P.O. chega com o Product Backlog, e apresenta os itens de maior prioridade para o cliente.
 - Os desenvolvedores vão discutir sobre o item, estimar quanto de esforço deve ser empregado nesse tipo de tarefa.
@@ -84,14 +102,14 @@
 - Definir uma ==Meta== para o Sprint.
 ---
 
-# Daily Scrum
+## Daily Scrum
 - Reunião diária e rápida de no máximo `15 minutos` no próprio ambiente de trabalho, sempre no mesmo horário.
 - Três perguntas principais devem ser respondidas: O que fez? O que fará? Quais problemas enfrentou?
 - Toda a equipe deve participar.
 
 ---
 
-# Review Meeting
+## Review Meeting
 
 - É o momento no qual o cliente e o time de desenvolvimento se reúnem para mostrar os incrementos feitos na Sprint.
 - É uma time box que não deve ultrapassar `2.5%` tempo total da Sprint. Para um Sprint de 1 semana, o Review Meeting terá ==1 hora== de duração.
@@ -144,12 +162,19 @@ seu melhor, e agora devemos seguir adiante.
 - Agrupar esses pontos por assunto para facilitar a discução.
 - Identificar com o time quais ações podem ser tomadas para solucinar o problema levantado.
 - Sair da reunião de restropectiva com pelo menos ==1 ação== de melhoria definida.
+- A mensagem importante é que nós precisamos pensar sobre o nosso trabalho.
+- Manter uma lista das ações a serem tomadas.
 
 ---
 
-### Exemplo de quadro de retrospectiva
+## Ciclo de Deming (PDCA)
 
-![](./quadro_retrospectiva.png)
+- Ferramenta utilizada para controle e melhoria continua de processos;
+- Primeiramente, é feito um planejamento, que depois é executado, verificado e validado. Após estes passos, o time vai refletir sobre o que aconteceu e irá agir com base no que foi aprendido.
+
+---
+
+<img src="./pdca.png" style="width:100%"/>
 
 ---
 
@@ -180,15 +205,36 @@ seu melhor, e agora devemos seguir adiante.
 
 ## Product Backlog e Sprint Backlog
 
-[O que é Product e Sprint Backlog](https://cursos.alura.com.br/course/agile-scrum/task/10107)
-
-- O _**Product Backlog**_ é a lista priorizada das histórias que agregam valor para o cliente. São histórias que envolvem o projeto inteiro. Somente o P.O. mexe nele, mas todo o time pode palpitar;
-- O _**Sprint Backlog**_ engloba histórias e tarefas que estão no topo das prioridades. No Sprint Backlog o time altera essas tarefas sem que o cliente palpite sobre elas.
+- O _**Product Backlog**_ é a lista priorizada das histórias que agregam valor para o cliente. São histórias que envolvem o projeto inteiro. Somente o ==P.O.== mexe nele, mas todo o time pode palpitar. Conforme as histórias vão subindo na prioriedade, elas se tornam mais  detalhadas.
+- O _**Sprint Backlog**_ engloba histórias e tarefas que estão no topo das prioridades e que serão feitas nesta Sprint. No Sprint Backlog o time altera essas tarefas sem que o cliente palpite sobre elas.
 
 ---
 ## ==DEEP==: Detailed appropriately, estimated, emergent, and prioritized
 
 ![](./product-backlog.jpg)
+
+---
+
+## Backlog Grooming
+
+- Processo feito por meio de uma reunião para definir prioridades do Product Backlog;
+- Utilizar ==hierarquia de requisitos== para facilitar a priorização dos itens;
+- Não detalhar itens que estão distantes de serem implementados;
+- Utilizar técnicas para ajudar a estimar o tempo de cada história, como por exemplo ==Planning Poker==;
+
+---
+
+![](./hierarquia-de-requisitos.png)
+
+---
+
+## Dívida Técnica
+
+- Problemas técnicos que depois, em um segundo momento, serão corrigidos;
+- Quanto mais tempo você demora para resolver esse problema, mais juros você vai acumulando, mais difícil vai ficando pagar essa dívida;
+- Reservar um perído de tempo para pagar as dívidas técnicas;
+- Manter um backlog das dívidas;
+
 
 ---
 
@@ -200,43 +246,44 @@ seu melhor, e agora devemos seguir adiante.
 
 ---
 
-# Scrum Master
-
-[Quem é o Scrum Master](https://cursos.alura.com.br/course/agile-scrum/task/10115)
-[Impedimentos](https://cursos.alura.com.br/course/agile-scrum/task/10116)
+## Scrum Master
 
 - O papel do Scrum Master é facilitar o ensino sobre o que é o Scrum e as responsabilidades de cada uma das partes envolvidas.
-- Não se trata de ser necessariamente o chefe, mas sim um líder servidor, aquele que está disponível para ajudar e facilitar a comunicação.
-- Sua terceira função é resolver impedimentos.
+- Não se trata de ser um chefe, mas sim um líder servidor, aquele que está disponível para ajudar e facilitar a comunicação.
+- Sua terceira função é resolver ==impedimentos==.
 
 ---
 
-# Product Owner
+## Impedimentos e problemas
 
-[Quem é o Product Owner](https://cursos.alura.com.br/course/agile-scrum/task/10121)
-[Como agir](https://cursos.alura.com.br/course/agile-scrum/task/10122)
+- Todo impedimento nasce como um problema, e a resolução disso é função do time.
+- Passa-se da categoria problema para impedimento __==quando o time tenta resolver uma situação mas não é capaz==__.
+
+__`Um bom Scrum Master trabalha para que os impedimentos de hoje não se tornem problemas amanhã.`__
+
+---
+
+## Product Owner
 
 - Responder dúvidas dos desenvolvedores sobre histórias ou indicar quem poderia respondê-las melhor;
-- Deixar claro para o time qual o valor de negócios de cada Sprint;
+- Deixar claro para o time qual o valor de negócios de cada Sprint e de cada história;
 - Manter o ==Product Backlog== atualizado;
 - ==**Uma pessoa, não um comitê.**==
+- Ele é influenciado tanto por clientes quanto pelo time de desenvolvimento.
 
 ---
 
-# Desenvolvedores
+## Desenvolvedores
 
-[Quem são os Desenvolvedores](https://cursos.alura.com.br/course/agile-scrum/task/10128)
-
-- Desenvolvedor é aquele que ajuda a executar o projeto e o faz andar para a frente;
-- O time de desenvolvimento que estima trabalho e tempo necessários;
-- Os desenvolvedores também decidem o quanto de trabalho pode ser feito em um time-box. Não é uma pessoa externa que define tempo, são os próprios envolvidos no trabalho
+- Desenvolvedor é aquele que ajuda a executar o projeto e o faz andar para a frente.
+- O time de desenvolvimento que estima trabalho e tempo necessários.
+- Os desenvolvedores também decidem o quanto de trabalho pode ser feito em um time-box. Não é uma pessoa externa que define tempo, são os próprios envolvidos no trabalho.
 
 ---
 
-# Melhoria contínua
+## Melhoria contínua
 
-[Como melhorar?](https://cursos.alura.com.br/course/agile-scrum/task/10147)
-
+- Melhroia contínua é responsabilidade do time.
 - Sempre aplicar as ações retiradas da retrospectivas e resolver os problemas à medida em que eles aparecem;
 - A melhoria contínua é essencial;
 - Todos devem pensar em melhorar constantemente, em conjunto;
